@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vish Khalipe
-- 👀 I’m interested in Serverless, Cloud Computing, APIs, Security, Service Mesh
+- 👀 I’m interested in Serverless, Cloud Computing, Kubernetes, APIs, Security
 - 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on API Management
 
